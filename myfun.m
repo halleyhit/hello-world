@@ -1,3 +1,3 @@
 function y=myfun(x)
-y=x;
+y=2*x;
 end
